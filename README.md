@@ -1,6 +1,6 @@
 # Sorting
 
-My implementations of some popular sorting algorithms, also learning python!
+My implementations of some popular sorting algorithms,while also learning python!
 
 ## Sorting Algorithms 
 
