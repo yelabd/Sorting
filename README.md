@@ -7,6 +7,7 @@ My implementations of some popular sorting algorithms,while also learning python
 - [X] Bubble Sort
 - [X] Quick Sort
 - [ ] Merge Sort
+- [ ] Shell Sort
 - [ ] Insertion Sort
 - [ ] Heap Sort
 - [ ] Selection
